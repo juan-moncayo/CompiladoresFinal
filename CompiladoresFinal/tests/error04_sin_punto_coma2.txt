@@ -1,0 +1,7 @@
+escena inicio {
+    decir "Hola";
+    opcion "Ir" ir_a fin
+}
+escena fin {
+    decir "Fin";
+}

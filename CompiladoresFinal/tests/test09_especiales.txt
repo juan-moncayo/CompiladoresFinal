@@ -1,0 +1,8 @@
+escena inicio {
+    decir "Hola! Como estas?";
+    decir "Simbolos: @#$%";
+    opcion "Ok" ir_a fin;
+}
+escena fin {
+    decir "Adios!";
+}

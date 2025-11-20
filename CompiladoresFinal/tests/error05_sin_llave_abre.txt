@@ -1,0 +1,3 @@
+escena inicio
+    decir "Error";
+}

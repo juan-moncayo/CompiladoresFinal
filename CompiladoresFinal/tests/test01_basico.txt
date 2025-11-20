@@ -1,0 +1,7 @@
+escena inicio {
+    decir "Bienvenido";
+    opcion "Comenzar" ir_a juego;
+}
+escena juego {
+    decir "Nivel 1";
+}

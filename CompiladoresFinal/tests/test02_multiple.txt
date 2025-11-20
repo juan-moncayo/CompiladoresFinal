@@ -1,0 +1,11 @@
+escena menu {
+    decir "Menu";
+    opcion "Jugar" ir_a juego;
+    opcion "Salir" ir_a fin;
+}
+escena juego {
+    decir "Jugando";
+}
+escena fin {
+    decir "Adios";
+}

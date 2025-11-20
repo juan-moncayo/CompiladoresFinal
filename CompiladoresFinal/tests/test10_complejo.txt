@@ -1,0 +1,13 @@
+escena entrada {
+    decir "Bifurcacion";
+    opcion "Izquierda" ir_a izq;
+    opcion "Derecha" ir_a der;
+}
+escena izq {
+    decir "Tesoro";
+    opcion "Volver" ir_a entrada;
+}
+escena der {
+    decir "Dragon";
+    opcion "Huir" ir_a entrada;
+}

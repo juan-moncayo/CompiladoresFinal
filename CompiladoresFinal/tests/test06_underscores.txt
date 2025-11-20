@@ -1,0 +1,7 @@
+escena nivel_1 {
+    decir "Nivel 1";
+    opcion "Siguiente" ir_a nivel_2;
+}
+escena nivel_2 {
+    decir "Nivel 2";
+}

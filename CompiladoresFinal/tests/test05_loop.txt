@@ -1,0 +1,9 @@
+escena menu {
+    decir "Menu";
+    opcion "Jugar" ir_a juego;
+    opcion "Menu" ir_a menu;
+}
+escena juego {
+    decir "Juego";
+    opcion "Volver" ir_a menu;
+}

@@ -1,0 +1,3 @@
+escena {
+    decir "Sin nombre";
+}

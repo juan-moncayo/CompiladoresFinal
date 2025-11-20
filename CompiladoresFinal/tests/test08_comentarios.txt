@@ -1,0 +1,9 @@
+// Comentario
+escena inicio {
+    decir "Hola"; // inline
+    opcion "Ir" ir_a fin;
+}
+/* Bloque */
+escena fin {
+    decir "Fin";
+}

@@ -1,0 +1,11 @@
+escena cap1 {
+    decir "Capitulo 1";
+    opcion "Siguiente" ir_a cap2;
+}
+escena cap2 {
+    decir "Capitulo 2";
+    opcion "Siguiente" ir_a cap3;
+}
+escena cap3 {
+    decir "Fin";
+}

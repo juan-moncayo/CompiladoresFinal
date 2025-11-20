@@ -1,0 +1,11 @@
+escena nivel1 {
+    decir "Nivel 1";
+    opcion "Ir" ir_a nivel2;
+}
+escena nivel2 {
+    decir "Nivel 2";
+    opcion "Ir" ir_a nivel3;
+}
+escena nivel3 {
+    decir "Nivel 3";
+}

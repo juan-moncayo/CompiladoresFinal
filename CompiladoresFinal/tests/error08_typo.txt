@@ -1,0 +1,3 @@
+esena inicio {
+    decir "Error";
+}

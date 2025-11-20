@@ -1,0 +1,9 @@
+escena intro {
+    decir "Linea 1";
+    decir "Linea 2";
+    decir "Linea 3";
+    opcion "Ir" ir_a fin;
+}
+escena fin {
+    decir "Fin";
+}

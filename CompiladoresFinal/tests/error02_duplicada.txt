@@ -1,0 +1,6 @@
+escena inicio {
+    decir "Primera";
+}
+escena inicio {
+    decir "Segunda";
+}
